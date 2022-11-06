@@ -24,7 +24,7 @@ rm(list = ls())
 
 # Load Data ---------------------------------------------------------------
 
-df <- read_csv("data/dataset.csv")
+df <- read_csv("data/rescuetime_members")
 vad <- read_tsv("data/NRC-VAD-Lexicon.tsv")
 
 potato <- vad %>% with(which(word == 'potato'))
