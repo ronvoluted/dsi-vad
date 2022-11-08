@@ -1,0 +1,116 @@
+date,time,file,member,att_manual_0,att_manual_1,att_manual_2,att_manual_3,att_manual_4,att_model_0,att_model_1,att_model_2,att_model_3,att_model_4,valence,arousal,dominance
+2022-08-22,21:22,20220822T2122_a.jpg,a,gown,gray,rope,v-neck,shirt,sleeve,knit,maxi,denim,striped,0.506,0.292,0.32
+2022-08-29,18:59,20220829T1859_a.jpg,a,gown,gray,rope,v-neck,shirt,sleeve,knit,maxi,denim,lace,0.577,0.249,0.297
+2022-09-01,10:30,20220901T1030_a.jpg,a,t-shirt,shorts,purple,blue,shorts,print,sleeve,floral,maxi,denim,0.601,0.318,0.337
+2022-09-03,09:01,20220903T0901_a.jpg,a,jumper,boots,jeans,navy,brown,sleeve,print,maxi,knit,denim,0.55,0.295,0.344
+2022-09-05,19:35,20220905T1935_a.jpg,a,stripe,pants,jumper,navy,black,print,sleeve,floral,maxi,denim,0.601,0.318,0.337
+2022-09-06,07:38,20220906T0738_a.jpg,a,singlet,green,blue,shorts,sock,sleeve,print,knit,maxi,denim,0.55,0.295,0.344
+2022-09-08,13:21,20220908T1321_a.jpg,a,singlet,white,shorts,blue,sock,sleeve,maxi,knit,print,denim,0.55,0.295,0.344
+2022-09-10,17:07,20220910T1707_a.jpg,a,shirt,brown,jeans,white,shoes,print,sleeve,maxi,floral,denim,0.601,0.318,0.337
+2022-09-13,21:41,20220913T2141_a.jpg,a,gray,pants,baggy,t-shirt,purple,print,sleeve,maxi,floral,denim,0.601,0.318,0.337
+2022-09-28,09:27,20220928T0927_a.jpg,a,gray,pants,baggy,t-shirt,purple,print,sleeve,floral,maxi,knit,0.629,0.258,0.329
+2022-09-29,16:48,20220929T1648_a.jpg,a,pants,black,shirt,orange,belt,print,sleeve,maxi,floral,denim,0.601,0.318,0.337
+2022-08-16,21:14,20220816T2114_b.jpg,b,jumper,sleeve,jeans,black,shirt,sleeve,knit,maxi,denim,print,0.55,0.295,0.344
+2022-08-25,16:36,20220825T1636_b.jpg,b,,,,,,sleeve,knit,striped,stripe,maxi,0.533,0.272,0.329
+2022-09-10,11:52,20220910T1152_b.jpg,b,,,,,,sleeve,print,denim,maxi,knit,0.55,0.295,0.344
+2022-09-29,20:13,20220929T2013_b.jpg,b,,,,,,sleeve,knit,maxi,denim,lace,0.577,0.249,0.297
+2022-08-23,22:42,20220823T2242_c.jpg,c,black,short,white,shirt,slippers,sleeve,knit,maxi,lace,striped,0.532,0.247,0.311
+2022-08-24,22:57,20220824T2257_c.jpg,c,gray,vest,shorts,black,slippers,sleeve,knit,denim,maxi,print,0.55,0.295,0.344
+2022-08-25,22:36,20220825T2236_c.jpg,c,white,shirt,shorts,black,slippers,sleeve,maxi,knit,print,lace,0.577,0.249,0.336
+2022-08-27,19:21,20220827T1921_c.jpg,c,white,shirt,shorts,black,slippers,sleeve,print,maxi,knit,denim,0.55,0.295,0.344
+2022-08-28,20:11,20220828T2011_c.jpg,c,white,shirt,shorts,navy,slippers,sleeve,knit,striped,denim,lace,0.53,0.274,0.315
+2022-08-29,19:53,20220829T1953_c.jpg,c,gray,shirt,shorts,navy,slippers,sleeve,print,knit,striped,denim,0.509,0.311,0.352
+2022-09-01,17:10,20220901T1710_c.jpg,c,white,shirt,shorts,gray,slippers,sleeve,print,knit,maxi,denim,0.55,0.295,0.344
+2022-09-03,20:16,20220903T2016_c.jpg,c,white,vest,shorts,gray,slippers,sleeve,knit,maxi,lace,striped,0.532,0.247,0.311
+2022-09-04,17:31,20220904T1731_c.jpg,c,white,sleeve,shorts,black,slippers,sleeve,knit,denim,maxi,striped,0.506,0.292,0.32
+2022-09-06,16:42,20220906T1642_c.jpg,c,white,shirt,shorts,gray,slippers,sleeve,knit,lace,maxi,denim,0.577,0.249,0.297
+2022-09-07,22:35,20220907T2235_c.jpg,c,white,vest,shorts,gray,slippers,sleeve,knit,denim,lace,maxi,0.577,0.249,0.297
+2022-09-08,21:39,20220908T2139_c.jpg,c,white,sleeve,shorts,black,slippers,sleeve,knit,denim,lace,striped,0.53,0.274,0.315
+2022-09-09,20:55,20220909T2055_c.jpg,c,white,sleeve,shorts,black,slippers,sleeve,knit,lace,maxi,stripe,0.604,0.229,0.305
+2022-09-10,22:22,20220910T2222_c.jpg,c,white,vest,shorts,gray,slippers,sleeve,knit,denim,striped,leather,0.507,0.299,0.324
+2022-09-11,17:33,20220911T1733_c.jpg,c,gray,shirt,shorts,black,slippers,sleeve,knit,denim,print,maxi,0.55,0.295,0.344
+2022-09-12,22:13,20220912T2213_c.jpg,c,white,shirt,shorts,black,slippers,sleeve,knit,denim,stripe,striped,0.531,0.294,0.328
+2022-09-13,22:06,20220913T2206_c.jpg,c,gray,shirt,shorts,black,slippers,sleeve,knit,maxi,denim,lace,0.577,0.249,0.297
+2022-09-16,20:48,20220916T2048_c.jpg,c,white,sleeve,shorts,gray,slippers,sleeve,knit,maxi,lace,print,0.577,0.249,0.336
+2022-09-17,20:59,20220917T2059_c.jpg,c,white,shirt,shorts,gray,slippers,sleeve,knit,denim,striped,maxi,0.506,0.292,0.32
+2022-09-18,18:31,20220918T1831_c.jpg,c,white,shirt,shorts,gray,slippers,sleeve,knit,denim,maxi,lace,0.577,0.249,0.297
+2022-09-19,18:48,20220919T1848_c.jpg,c,white,sleeve,shorts,gray,slippers,sleeve,knit,maxi,striped,denim,0.506,0.292,0.32
+2022-08-24,23:27,20220824T2327_d.jpg,d,cotton,pajama,pink,blue,shorts,print,sleeve,floral,maxi,lace,0.627,0.272,0.328
+2022-08-24,16:51,20220824T1651_d.jpg,d,woolen,denim,jeans,blue,pink,knit,sleeve,leather,striped,denim,0.507,0.299,0.324
+2022-08-26,15:42,20220826T1542_d.jpg,d,stripe,black,full sleeves,cotton,blue,sleeve,knit,striped,leather,denim,0.507,0.299,0.324
+2022-08-27,12:37,20220827T1237_d.jpg,d,pajama,jacket,black,pink,floral,print,sleeve,denim,floral,maxi,0.601,0.318,0.337
+2022-08-29,14:15,20220829T1415_d.jpg,d,pajama,cotton,purple,print,shorts,sleeve,print,denim,lace,knit,0.565,0.276,0.334
+2022-08-29,12:40,20220829T1240_d.jpg,d,jacket,black,blue,cotton,plain,sleeve,knit,leather,lace,wash,0.586,0.263,0.3
+2022-08-30,17:55,20220830T1755_d.jpg,d,jacket,sneakers,white,black,plain,sleeve,knit,maxi,denim,lace,0.577,0.249,0.297
+2022-09-02,13:15,20220902T1315_d.jpg,d,jacket,black,stripe,red,running shoes,sleeve,knit,denim,leather,lace,0.563,0.264,0.306
+2022-09-02,21:25,20220902T2125_d.jpg,d,shirt,black,denim,jeans,sweatshirt,sleeve,knit,maxi,denim,lace,0.577,0.249,0.297
+2022-09-04,22:39,20220904T2239_d.jpg,d,pink,floral,kurta,shirt,white,sleeve,maxi,knit,print,lace,0.577,0.249,0.336
+2022-09-05,00:43,20220905T0043_d.jpg,d,sweatshirt,floral,pajama,black,gray,print,sleeve,knit,maxi,floral,0.629,0.258,0.329
+2022-09-05,17:52,20220905T1752_d.jpg,d,black,gray,jacket,jeans,full sleeve,sleeve,knit,maxi,leather,denim,0.548,0.28,0.309
+2022-09-07,14:07,20220907T1407_d.jpg,d,blue,white,print,pajama,shorts,sleeve,maxi,knit,print,denim,0.55,0.295,0.344
+2022-09-08,22:00,20220908T2200_d.jpg,d,denim,black,shorts,sport,plain,knit,sleeve,maxi,denim,wash,0.579,0.293,0.298
+2022-09-14,18:30,20220914T1830_d.jpg,d,sweat shirt,jeans,black,cream,sock,sleeve,knit,print,striped,maxi,0.506,0.293,0.359
+2022-09-21,18:18,20220921T1818_d.jpg,d,stripe,woolen,denim,dark blue,cream,sleeve,knit,leather,striped,denim,0.507,0.299,0.324
+2022-09-22,23:01,20220922T2301_d.jpg,d,sport,black,jeans,shorts,denim,sleeve,knit,maxi,denim,wash,0.579,0.293,0.298
+2022-09-29,14:08,20220929T1408_d.jpg,d,orange,print,floral,shorts,pajama,print,floral,sleeve,maxi,denim,0.601,0.318,0.337
+2022-10-10,15:08,20221010T1805_d.png,d,jacket,gray,black,jeans,print,,,,,,,,
+2022-10-18,16:08,20221018T1529_d.png,d,checks,jeans,denim,blue,shorts,,,,,,,,
+2022-10-18,17:08,20221018T1531_d.png,d,plain,shorts,jeans,denim,cream,,,,,,,,
+2022-10-18,18:08,20221018T1533_d.png,d,baggy,cream,cotton,olive,full sleeve,,,,,,,,
+2022-10-19,19:08,20221019T1322_d.png,d,white,shorts,shorts,plain,cotton,,,,,,,,
+2022-10-23,20:08,20221023T2330_d.png,d,olive,black,pants,sweatshirt,cotton,,,,,,,,
+2022-10-25,21:08,20221025T1326_d.png,d,whtie,jeans,shorts,plain,denim,,,,,,,,
+2022-08-24,14:38,20220824T1438_e.jpg,e,gray,shirt,burgundy,trousers,sneakers,sleeve,knit,striped,stripe,denim,0.531,0.294,0.328
+2022-08-25,09:24,20220825T0924_e.jpg,e,gray,sport,black,pants,sock,sleeve,knit,striped,lace,maxi,0.532,0.247,0.311
+2022-08-26,09:59,20220826T0959_e.jpg,e,green,buttonup,black,pants,sock,knit,sleeve,striped,denim,lace,0.53,0.274,0.315
+2022-09-09,11:08,20220909T1108_e.jpg,e,green,rolledup,black,pants,shoes,sleeve,knit,denim,wash,leather,0.565,0.299,0.307
+2022-09-17,21:39,20220917T2139_e.jpg,e,gray,jacket,gray,trackpants,shoes,sleeve,knit,denim,lace,maxi,0.577,0.249,0.297
+2022-09-24,07:00,20220924T0700_e.jpg,e,graphic,t-shirt,gray,trackpants,sock,knit,sleeve,striped,denim,maxi,0.506,0.292,0.32
+2022-09-25,00:34,20220925_0034_e.jpg,e,green,buttonup,black,pants,sock,sleeve,knit,striped,lace,denim,0.53,0.274,0.315
+2022-09-25,11:32,20220925T1132_e.jpg,e,green,buttonup,black,pants,sock,knit,sleeve,striped,denim,maxi,0.506,0.292,0.32
+2022-09-26,14:19,20220926T1419_e.jpg,e,gray,sport,black,pants,brown,sleeve,knit,denim,maxi,striped,0.506,0.292,0.32
+2022-09-27,10:18,20220927T1018_e.jpg,e,gray,sport,black,pants,green,sleeve,knit,denim,striped,maxi,0.506,0.292,0.32
+2022-09-28,11:13,20220928T1113_e.jpg,e,blue,t-shirt,barefoot,shorts,sport,sleeve,knit,denim,striped,lace,0.53,0.274,0.315
+2022-09-29,19:57,20220929_1957_e.jpg,e,gray,bathrobe,barefoot,dark,robe,sleeve,knit,striped,maxi,denim,0.506,0.292,0.32
+2022-09-30,09:08,20220930T0908_e.jpg,e,grey,shirt,burgundy,trousers,barefoot,sleeve,knit,striped,denim,maxi,0.506,0.292,0.32
+2022-10-01,17:37,20221001T1737_e.jpg,e,green,buttonup,burgundy,trousers,sock,sleeve,knit,denim,striped,lace,0.53,0.274,0.315
+2022-10-02,10:34,20221002T1034_e.jpg,e,green,buttonup,pattern,pajamas,sock,sleeve,knit,denim,maxi,striped,0.506,0.292,0.32
+2022-08-23,20:54,20220823T2054_f.JPG,f,black,jacket,pants ,shirt ,sock,sleeve,knit,striped,lace,stripe,0.552,0.258,0.321
+2022-08-25,22:28,20220825T2228_f.JPG,f,navy,t-shirt,black ,pants ,sock,sleeve,knit,striped,denim,lace,0.53,0.274,0.315
+2022-08-27,19:31,20220827T1931_f.JPG,f,black,t-shirt,pants ,sock,tight,sleeve,knit,striped,stripe,denim,0.531,0.294,0.328
+2022-08-28,20:28,20220828T2028_f.JPG,f,black,jacket,gray,pants ,puffer,knit,sleeve,striped,lace,denim,0.53,0.274,0.315
+2022-08-31,21:39,20220831T2139_f.JPG,f,black,t-shirt,gray,pants ,baggy,sleeve,knit,striped,maxi,denim,0.506,0.292,0.32
+2022-09-02,00:01,20220902T0001_f.JPG,f,black,t-shirt,graphic,baggy,pants,sleeve,knit,striped,denim,lace,0.53,0.274,0.315
+2022-09-07,21:38,20220907T2138_f.JPG,f,black,t-shirt,gray,baggy,pants,sleeve,knit,denim,striped,lace,0.53,0.274,0.315
+2022-09-11,21:00,20220911T2100_f.JPG,f,black,pants,t-shirt,baggy,plain,knit,sleeve,striped,lace,stripe,0.552,0.258,0.321
+2022-09-14,22:23,20220914T2223_f.JPG,f,navy,graphic,t-shirt,tight,pants,knit,sleeve,striped,denim,maxi,0.506,0.292,0.32
+2022-09-17,21:33,20220917T2133_f.jpg,f,gray,graphic,t-shirt,black,pants,sleeve,knit,striped,denim,lace,0.53,0.274,0.315
+2022-09-19,21:22,20220919T2122_f.jpg,f,white ,t-shirt,graphic,baggy,sock,knit,sleeve,leather,denim,striped,0.507,0.299,0.324
+2022-09-22,21:15,20220922T2115_f.jpg,f,black,t-shirt,plain,pants ,tight,sleeve,knit,wash,leather,maxi,0.577,0.279,0.301
+2022-09-24,21:49,20220924T2149_f.jpg,f,white ,plain,baggy,t-shirt,shorts,sleeve,knit,lace,striped,denim,0.53,0.274,0.315
+2022-09-25,23:16,20220925T2316_f.JPG,f,gray ,graphic,t-shirt,baggy,shorts,sleeve,print,knit,denim,maxi,0.55,0.295,0.344
+2022-08-22,19:39,20220822T1939_g.jpg,g,black,letters,t-shirt,shorts,sneaker,knit,sleeve,striped,stripe,denim,0.531,0.294,0.328
+2022-08-24,11:56,20220824T1156_g.jpg,g,black,letters,t-shirt,shorts,sneaker,knit,sleeve,striped,stripe,denim,0.531,0.294,0.328
+2022-08-25,19:07,20220825T1907_g.jpg,g,black,t-shirt,blue,plaid,shorts,sleeve,knit,striped,denim,stripe,0.531,0.294,0.328
+2022-08-28,21:49,20220828T2149_g.jpg,g,black,t-shirt,plain,pants,sock,knit,sleeve,striped,denim,stripe,0.531,0.294,0.328
+2022-08-29,21:41,20220829T2141_g.jpg,g,blue,graphic,t-shirt,pants,sock,sleeve,knit,striped,lace,denim,0.53,0.274,0.315
+2022-09-03,14:21,20220903T1421_g.jpg,g,blue,graphic,t-shirt,watch,pants,sleeve,denim,knit,print,maxi,0.55,0.295,0.344
+2022-09-13,21:22,20220913T2122_g.jpg,g,blue,t-shirt,watch,pants ,sneaker,sleeve,knit,striped,denim,stripe,0.531,0.294,0.328
+2022-09-16,09:47,20220916T0947_g.jpg,g,blue,t-shirt,plain,pants ,sock,sleeve,knit,maxi,denim,print,0.55,0.295,0.344
+2022-09-27,18:18,20220927T1818_g.jpg,g,blue,graphic,t-shirt,plain,pants,knit,sleeve,striped,denim,stripe,0.531,0.294,0.328
+2022-09-29,07:41,20220929T0741_g.jpg,g,black,letters,t-shirt,watch,sneaker,sleeve,knit,maxi,striped,stripe,0.533,0.272,0.329
+2022-09-30,19:42,20220930T1942_h.jpg,h,,,,,,,,,,,,,
+2022-10-01,08:34,20221001T0834_h.jpg,h,,,,,,,,,,,,,
+2022-10-02,17:08,20221002T1708_h.jpg,h,,,,,,,,,,,,,
+2022-10-03,15:36,20221003T1536_h.jpg,h,,,,,,,,,,,,,
+2022-10-05,12:56,20221005T1256_h.jpg,h,,,,,,,,,,,,,
+2022-10-06,14:57,20221006T1457_h.jpg,h,,,,,,,,,,,,,
+2022-10-06,17:50,20221006T1750_h.jpg,h,,,,,,,,,,,,,
+2022-10-07,11:08,20221007T1108_h.jpg,h,,,,,,,,,,,,,
+2022-10-09,21:48,20221009T2148_h.jpg,h,,,,,,,,,,,,,
+2022-10-10,20:31,20221010T2031_h.jpg,h,,,,,,,,,,,,,
+2022-10-11,11:37,20221011T1137_h.jpg,h,,,,,,,,,,,,,
+2022-10-16,01:14,20221016T0114_h.jpg,h,,,,,,,,,,,,,
+2022-10-16,23:52,20221016T2352_h.jpg,h,,,,,,,,,,,,,
+2022-10-17,22:50,20221017T2250_h.jpg,h,,,,,,,,,,,,,
+2022-10-19,19:13,20221019T1913_h.jpg,h,,,,,,,,,,,,,
