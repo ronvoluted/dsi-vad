@@ -36,7 +36,7 @@ dominance <- function(index) {
 
   return(vad[index,]["dominance"])
 }
-
+*
 unknown_words <- c()
 unknown_words_count <- 0
 
@@ -93,17 +93,6 @@ append_vad <- function(row) {
     sprintf("%0.3f", valence),
     sprintf("%0.3f", arousal),
     sprintf("%0.3f", dominance),
-    # as.character(valence),
-    # as.character(arousal),
-    # as.character(m(valence),
-    # as.character(num(arousal, digits=3)),
-    # as.character(num(dominance, digits=3)),
-    # num(as.character(valence), digits=3),
-    # num(as.character(arousal), digits=3),
-    # num(as.character(dominance), digits=3),
-    # as.numeric(valence),
-    # as.numeric(arousal),
-    # as.numeric(dominance),
     sep=","
   )
   
